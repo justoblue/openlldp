@@ -1,0 +1,6 @@
+lldpd-tlv_0080c2.o: tlv/oui/tlv_0080c2.c /usr/include/stdc-predef.h \
+ tlv/oui/tlv_0080c2.h
+
+/usr/include/stdc-predef.h:
+
+tlv/oui/tlv_0080c2.h:

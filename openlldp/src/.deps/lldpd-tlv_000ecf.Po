@@ -1,0 +1,6 @@
+lldpd-tlv_000ecf.o: tlv/oui/tlv_000ecf.c /usr/include/stdc-predef.h \
+ tlv/oui/tlv_000ecf.h
+
+/usr/include/stdc-predef.h:
+
+tlv/oui/tlv_000ecf.h:

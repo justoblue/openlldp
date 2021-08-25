@@ -1,0 +1,3 @@
+lldpd-tlv_0012bb.o: tlv/oui/tlv_0012bb.c /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
